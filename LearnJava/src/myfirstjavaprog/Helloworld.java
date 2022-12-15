@@ -7,6 +7,7 @@ public class Helloworld {
 		System.out.print("hello world");
 		System.out.print("This is my first java program");
 		System.out.print("This is my first java program");
+		System.out.print("This is my test");
 //Test
 	}
 
